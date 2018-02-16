@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaliburnAutoFac.Android", "CaliburnAutoFac\CaliburnAutoFac.Android\CaliburnAutoFac.Android.csproj", "{72F08CD9-81D1-4372-93C9-D6BFBC0CB390}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaliburnAutoFac", "CaliburnAutoFac\CaliburnAutoFac\CaliburnAutoFac.csproj", "{61330B94-51D1-4BB4-B5C5-95B54A9DD80B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72F08CD9-81D1-4372-93C9-D6BFBC0CB390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72F08CD9-81D1-4372-93C9-D6BFBC0CB390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72F08CD9-81D1-4372-93C9-D6BFBC0CB390}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{72F08CD9-81D1-4372-93C9-D6BFBC0CB390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72F08CD9-81D1-4372-93C9-D6BFBC0CB390}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72F08CD9-81D1-4372-93C9-D6BFBC0CB390}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{61330B94-51D1-4BB4-B5C5-95B54A9DD80B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61330B94-51D1-4BB4-B5C5-95B54A9DD80B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61330B94-51D1-4BB4-B5C5-95B54A9DD80B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61330B94-51D1-4BB4-B5C5-95B54A9DD80B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEF9DFEF-6E5D-4483-9B9D-A50F8DF90C3B}
+	EndGlobalSection
+EndGlobal
