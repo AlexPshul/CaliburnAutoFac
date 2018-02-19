@@ -2,7 +2,7 @@
 {
     public class SampleTwoViewModel : IChildSampleViewModel
     {
-        public string DisplayName { get; } = "Sample Two";
-        public string Message { get; } = "This is the second sample.";
+        public string DisplayName { get; } = "IoC Container";
+        public string Message { get; } = "AutoFac";
     }
 }

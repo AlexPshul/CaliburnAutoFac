@@ -2,7 +2,7 @@
 {
     public class SampleOneViewModel : IChildSampleViewModel
     {
-        public string DisplayName { get; } = "Sample One";
-        public string Message { get; } = "This is the first sample.";
+        public string DisplayName { get; } = "UI Framework";
+        public string Message { get; } = "Caliburn Micro";
     }
 }
